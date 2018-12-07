@@ -1,0 +1,14 @@
+
+.point-wrapper{
+  width: 100%;
+  display: flex;
+}
+.point-input{
+  width: 50px;
+}
+
+.point-element{
+  display: inline-block;
+  font-weight: bold;
+  margin: 5px;
+}
