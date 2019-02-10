@@ -1,5 +1,3 @@
-
-## Mateusz Klinowski
 #### Metody numeryczne  
 #### Akademia WSB
 
@@ -28,5 +26,3 @@ Pobiera zależności projektu
 
 Uruchamia aplikacje w przeglądarce<br> 
 pod adresem: [http://localhost:3000](http://localhost:3000)
-
-#### mateusz.klinowski@edu.uekat.pl
